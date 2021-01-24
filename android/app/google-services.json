@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735361274012",
+    "firebase_url": "https://booworld-c8291.firebaseio.com",
+    "project_id": "booworld-c8291",
+    "storage_bucket": "booworld-c8291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735361274012:android:dc033bd160fa445a1e5d59",
+        "android_client_info": {
+          "package_name": "com.shamiak.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735361274012-fd96v2ia6r4tg2tp9fq3n4rgb8iah640.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamiak.helloworld",
+            "certificate_hash": "90b56426f0323af16dc45e92e3d743df0646a3cd"
+          }
+        },
+        {
+          "client_id": "735361274012-28kmv3nhjs07ntrkmd1pt31aqse080f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEVNqIbFQ2vPhyzscYZ6cpJY91mzESR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735361274012-28kmv3nhjs07ntrkmd1pt31aqse080f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
